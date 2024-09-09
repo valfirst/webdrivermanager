@@ -20,7 +20,7 @@
         <javalin.version>6.3.0</javalin.version>
 
         <!-- test -->
-        <logback.version>1.5.7</logback.version>
+        <logback.version>1.5.8</logback.version>
         <junit.version>5.11.0</junit.version>
         <assertj.version>3.26.3</assertj.version>
         <mockserver.version>5.15.0</mockserver.version>
